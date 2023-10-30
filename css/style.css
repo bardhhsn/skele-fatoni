@@ -91,6 +91,11 @@ html {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.qendra {
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 body::-webkit-scrollbar {
     width: 10px;
     background-color: #19394B
